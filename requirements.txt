@@ -1,6 +1,0 @@
-streamlit
-groq
-pandas
-numpy
-sentence-transformers
-faiss-cpu
